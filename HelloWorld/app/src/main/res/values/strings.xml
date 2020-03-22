@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="bigger">放大</string>
+    <string name="show_pic">显示图片</string>
+    <string name="show_word">显示文字</string>
+    <string name="input_word">请输入签名</string>
+    <string name="smaller">缩小</string>
+    <string name="mod">修改</string>
+    <string name="little_prince">TODO</string>
+</resources>
